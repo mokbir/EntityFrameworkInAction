@@ -1,0 +1,2 @@
+# EntityFrameworkInAction
+Livre Manning TP
