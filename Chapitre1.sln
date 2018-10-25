@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapitre1", "Chapitre1\Chapitre1.csproj", "{FCFE62EA-A706-4C58-8BEE-08513603D5C1}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Entities", "Entities\Entities.shproj", "{9D32B219-6A2C-4DCD-8AD7-C16CB0284747}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Entities\Entities.projitems*{9d32b219-6a2c-4dcd-8ad7-c16cb0284747}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
